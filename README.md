@@ -16,7 +16,7 @@ With the GPS coordinates of the Dublin office they are 53.3340285, -6.2535495.
 
 by Gabriel Henrique
  
-https://www.linkedin.com/in/gabriel-henrique-47ab76188/
+
 
 
 ![image](https://user-images.githubusercontent.com/85229315/174197035-3ea279d6-005c-4f00-be05-c9e41826b3cd.png).
