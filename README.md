@@ -7,8 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About My Laravel Aplication
+##Assignment
+It was to develop an algorithm that reads a JSON encoded affiliates.txt file that contained a shortlist of contact records that match within 100 km, sorted by ID.
+  Using the first formula from this [Wikipedia article](https://en.wikipedia.org/wiki/Great-
+circle_distance) to calculate the distance.
+With the GPS coordinates of the Dublin office they are 53.3340285, -6.2535495.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+
+by Gabriel Henrique
+ 
+https://www.linkedin.com/in/gabriel-henrique-47ab76188/
+
 
 ![image](https://user-images.githubusercontent.com/85229315/174197035-3ea279d6-005c-4f00-be05-c9e41826b3cd.png).
