@@ -74,7 +74,7 @@
                 <p style="margin: 50px">
                     Hello, my name is <a style="color: #4370c9;text-decoration: none;font-size: bolder;"href="https://www.linkedin.com/in/gabriel-henrique-47ab76188/">Gabriel Henrique</a><br>
                         <br>
-                    I´m Full stack devepoler,with experience in TypeScript, Laravel, Php, NodeJs and etc.
+                    I´m Full stack developer,with experience in TypeScript, Laravel, Php, NodeJs and etc.
                 </p>
             <div>
         <div>
